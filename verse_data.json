@@ -1,0 +1,235 @@
+{
+"version": "2026.1.1",
+"year": 2025,
+"semester": 2,
+"termPeriod": {
+"startDate": "2025-09-01",
+"endDate": "2025-11-15"
+},
+"vacationPeriod": {
+"startDate": "2025-11-16",
+"endDate": "2026-03-06"
+},
+"weeks": [
+{
+"periodType": "term",
+"weekNumber": 1,
+"weekStartDate": "2025-09-01",
+"weekEndDate": "2025-09-05",
+"title": "시편 23편 1~3절",
+"verses": [
+{
+"verseIndex": 1,
+"text": "여호와는 나의 목자시니 내게 부족함이 없으리로다"
+},
+{
+"verseIndex": 2,
+"text": "그가 나를 푸른 풀밭에 누이시며 쉴 만한 물 가로 인도하시는도다"
+},
+{
+"verseIndex": 3,
+"text": "내 영혼을 소생시키시고 자기 이름을 위하여 의의 길로 인도하시는도다"
+}
+],
+"cardImageUrl": "https://raw.githubusercontent.com/DadHaving2Sons/shiningkids_data/refs/heads/main/cards/2025_2_term_w1.png"
+},
+{
+"periodType": "term",
+"weekNumber": 2,
+"weekStartDate": "2025-09-08",
+"weekEndDate": "2025-09-12",
+"title": "시편 23편 4~6절",
+"verses": [
+{
+"verseIndex": 4,
+"text": "내가 사망의 음침한 골짜기로 다닐지라도 해를 두려워하지 않을 것은 주께서 나와 함께 하심이라 주의 지팡이와 막대기가 나를 안위하시나이다"
+},
+
+{
+"verseIndex": 5,
+"text": "주께서 내 원수의 목전에서 내게 상을 차려 주시고 기름을 내 머리에 부으셨으니 내 잔이 넘치나이다"
+},
+
+{
+"verseIndex": 6,
+"text": "내 평생에 선하심과 인자하심이 반드시 나를 따르리니 내가 여호와의 집에 영원히 살리로다"
+}
+],
+"cardImageUrl": "https://raw.githubusercontent.com/DadHaving2Sons/shiningkids_data/refs/heads/main/cards/2025_2_term_w2.png"
+},
+{
+"periodType": "term",
+"weekNumber": 3,
+"weekStartDate": "2025-09-15",
+"weekEndDate": "2025-09-19",
+"title": "여호수아 1장 8~9절",
+"verses": [
+{
+"verseIndex": 8,
+"text": "이 율법책을 네 입에서 떠나지 말게 하며 주야로 그것을 묵상하여 그 안에 기록된 대로 다 지켜 행하라 그리하면 네 길이 평탄하게 될 것이며 네가 형통하리라"
+},
+{
+"verseIndex": 9,
+"text": "내가 네게 명령한 것이 아니냐 강하고 담대하라 두려워하지 말며 놀라지 말라 네가 어디로 가든지 네 하나님 여호와가 너와 함께 하느니라 하시니라"
+}
+],
+"cardImageUrl": "https://raw.githubusercontent.com/DadHaving2Sons/shiningkids_data/refs/heads/main/cards/2025_2_term_w3.png"
+},
+{
+"periodType": "term",
+"weekNumber": 4,
+"weekStartDate": "2025-09-22",
+"weekEndDate": "2025-10-03",
+"title": "디모데후서 3장 15~17절",
+"verses": [
+{
+"verseIndex": 15,
+"text": "또 어려서부터 성경을 알았나니 성경은 능히 너로 하여금 그리스도 예수 안에 있는 믿음으로 말미암아 구원에 이르는 지혜가 있게 하느니라"
+},
+{
+"verseIndex": 16,
+"text": "모든 성경은 하나님의 감동으로 된 것으로 교훈과 책망과 바르게 함과 의로 교육하기에 유익하니"
+},
+{
+"verseIndex": 17,
+"text": "이는 하나님의 사람으로 온전하게 하며 모든 선한 일을 행할 능력을 갖추게 하려 함이라"
+}
+],
+"cardImageUrl": "https://raw.githubusercontent.com/DadHaving2Sons/shiningkids_data/refs/heads/main/cards/2025_2_term_w4.png"
+},
+{
+"periodType": "term",
+"weekNumber": 5,
+"weekStartDate": "2025-10-06",
+"weekEndDate": "2025-10-10",
+"title": "고린도전서 3장 16~17절",
+"verses": [
+{
+"verseIndex": 16,
+"text": "너희는 너희가 하나님의 성전인 것과 하나님의 성령이 너희 안에 계시는 것을 알지 못하느냐"
+},
+{
+"verseIndex": 17,
+"text": "누구든지 하나님의 성전을 더럽히면 하나님이 그 사람을 멸하시리라 하나님의 성전은 거룩하니 너희도 그러하니라"
+}
+],
+"cardImageUrl": "https://raw.githubusercontent.com/DadHaving2Sons/shiningkids_data/refs/heads/main/cards/2025_2_term_w5.png"
+},
+{
+"periodType": "term",
+"weekNumber": 6,
+"weekStartDate": "2025-10-13",
+"weekEndDate": "2025-10-17",
+"title": "빌립보서 2장 5~6절",
+"verses": [
+{
+"verseIndex": 5,
+"text": "너희 안에 이 마음을 품으라 곧 그리스도 예수의 마음이니"
+},
+{
+"verseIndex": 6,
+"text": "그는 근본 하나님의 본체시나 하나님과 동등됨을 취할 것으로 여기지 아니하시고"
+}
+],
+"cardImageUrl": "https://raw.githubusercontent.com/DadHaving2Sons/shiningkids_data/refs/heads/main/cards/2025_2_term_w6.png"
+},
+{
+"periodType": "term",
+"weekNumber": 7,
+"weekStartDate": "2025-10-20",
+"weekEndDate": "2025-10-24",
+"title": "빌립보서 2장 7~8절",
+"verses": [
+{
+"verseIndex": 7,
+"text": "오히려 자기를 비워 종의 형체를 가지사 사람들과 같이 되셨고"
+},
+{
+"verseIndex": 8,
+"text": "사람의 모양으로 나타나사 자기를 낮추시고 죽기까지 복종하셨으니 곧 십자가에 죽으심이라"
+}
+],
+"cardImageUrl": "https://raw.githubusercontent.com/DadHaving2Sons/shiningkids_data/refs/heads/main/cards/2025_2_term_w7.png"
+},
+{
+"periodType": "term",
+"weekNumber": 8,
+"weekStartDate": "2025-10-27",
+"weekEndDate": "2025-10-31",
+"title": "빌립보서 2장 9~11절",
+"verses": [
+{
+"verseIndex": 9,
+"text": "이러므로 하나님이 그를 지극히 높여 모든 이름 위에 뛰어난 이름을 주사"
+},
+{
+"verseIndex": 10,
+"text": "하늘에 있는 자들과 땅에 있는 자들과 땅 아래에 있는 자들로 모든 무릎을 예수의 이름에 꿇게 하시고 "
+},
+{
+"verseIndex": 11,
+"text": "모든 입으로 예수 그리스도를 주라 시인하여 하나님 아버지께 영광을 돌리게 하셨느니라"
+}
+],
+"cardImageUrl": "https://raw.githubusercontent.com/DadHaving2Sons/shiningkids_data/refs/heads/main/cards/2025_2_term_w8.png"
+},
+{
+"periodType": "term",
+"weekNumber": 9,
+"weekStartDate": "2025-11-03",
+"weekEndDate": "2025-11-07",
+"title": "데살로니가전서 5장 16~18절",
+"verses": [
+{
+"verseIndex": 16,
+"text": "항상 기뻐하라"
+},
+{
+"verseIndex": 17,
+"text": "쉬지 말고 기도하라"
+},
+{
+"verseIndex": 18,
+"text": "범사에 감사하라 이것이 그리스도 예수 안에서 너희를 향하신 하나님의 뜻이니라"
+}
+],
+"cardImageUrl": "https://raw.githubusercontent.com/DadHaving2Sons/shiningkids_data/refs/heads/main/cards/2025_2_term_w9.png"
+},
+{
+"periodType": "term",
+"weekNumber": 10,
+"weekStartDate": "2025-11-10",
+"weekEndDate": "2025-11-14",
+"title": "시편 23편 1~6절",
+"verses": [
+{
+"verseIndex": 1,
+"text": "여호와는 나의 목자시니 내게 부족함이 없으리로다"
+},
+{
+"verseIndex": 2,
+"text": "그가 나를 푸른 풀밭에 누이시며 쉴 만한 물 가로 인도하시는도다"
+},
+{
+"verseIndex": 3,
+"text": "내 영혼을 소생시키시고 자기 이름을 위하여 의의 길로 인도하시는도다"
+},
+{
+"verseIndex": 4,
+"text": "내가 사망의 음침한 골짜기로 다닐지라도 해를 두려워하지 않을 것은 주께서 나와 함께 하심이라 주의 지팡이와 막대기가 나를 안위하시나이다"
+},
+
+{
+"verseIndex": 5,
+"text": "주께서 내 원수의 목전에서 내게 상을 차려 주시고 기름을 내 머리에 부으셨으니 내 잔이 넘치나이다"
+},
+
+{
+"verseIndex": 6,
+"text": "내 평생에 선하심과 인자하심이 반드시 나를 따르리니 내가 여호와의 집에 영원히 살리로다"
+}
+],
+"cardImageUrl": ""
+}
+]
+}
