@@ -1,1040 +1,336 @@
 {
-"version": "2026.1.8",
+"version": "2026.2.1",
 "year": 2026,
-"semester": 1,
+"semester": 2,
 "termPeriod": {
-"startDate": "2026-03-09",
-"endDate": "2026-05-16"
+"startDate": "2026-09-07",
+"endDate": "2026-11-28"
 },
 "vacationPeriod": {
-"startDate": "2026-05-17",
-"endDate": "2026-09-05"
+"startDate": "2026-11-29",
+"endDate": "2027-03-07"
 },
 "weeks": [
 {
 "periodType": "term",
 "weekNumber": 1,
-"weekStartDate": "2026-03-09",
-"weekEndDate": "2026-03-13",
-"title": "로마서 12장 1-2절",
+"weekStartDate": "2026-09-07",
+"weekEndDate": "2026-09-11",
+"title": "요한복음 1장 1-3절",
 "verses": [
 {
 "verseIndex": 1,
-"text": "그러므로 형제들아 내가 하나님의 모든 자비하심으로 너희를 권하노니 너희 몸을 하나님이 기뻐하시는 거룩한 산 제물로 드리라 이는 너희가 드릴 영적 예배니라"
+"text": "태초에 말씀이 계시니라 이 말씀이 하나님과 함께 계셨으니 이 말씀은 곧 하나님이시니라"
 },
 {
 "verseIndex": 2,
-"text": "너희는 이 세대를 본받지 말고 오직 마음을 새롭게 함으로 변화를 받아 하나님의 선하시고 기뻐하시고 온전하신 뜻이 무엇인지 분별하도록 하라"
-}
-],
-"title": "시편 51편 1-3절",
-"verses": [
-{
-"verseIndex": 1,
-"text": "하나님이여 주의 인자를 따라 내게 은혜를 베푸시며 주의 많은 긍휼을 따라 내 죄악을 지워 주소서"
-},
-{
-"verseIndex": 2,
-"text": "나의 죄악을 말갛게 씻으시며 나의 죄를 깨끗이 제하소서"
+"text": "그가 태초에 하나님과 함께 계셨고"
 },
 {
 "verseIndex": 3,
-"text": "무릇 나는 내 죄과를 아오니 내 죄가 항상 내 앞에 있나이다"
+"text": "만물이 그로 말미암아 지은 바 되었으니 지은 것이 하나도 그가 없이는 된 것이 없느니라"
 }
 ],
-"cardImageUrl": "https://raw.githubusercontent.com/DadHaving2Sons/shiningkids_data/refs/heads/main/cards/2026_1_term_w1.png"
+"title": "요한일서 1장 1-2절",
+"verses": [
+{
+"verseIndex": 1,
+"text": "태초부터 있는 생명의 말씀에 관하여는 우리가 들은 바요 눈으로 본 바요 자세히 보고 우리의 손으로 만진 바라"
+},
+{
+"verseIndex": 2,
+"text": "이 생명이 나타내신 바 된지라 이 영원한 생명을 우리가 보았고 증언하여 너희에게 전하노니 이는 아버지와 함께 계시다가 우리에게 나타내신 바 된 이시니라"
+}
+],
+"cardImageUrl": "https://raw.githubusercontent.com/DadHaving2Sons/shiningkids_data/refs/heads/main/cards/2026_2_term_w1.png"
 },
 {
 "periodType": "term",
 "weekNumber": 2,
-"weekStartDate": "2026-03-16",
-"weekEndDate": "2026-03-20",
-"title": "로마서 12장 3-5절",
+"weekStartDate": "2026-09-14",
+"weekEndDate": "2026-09-18",
+"title": "요한복음 1장 4-5절",
+"verses": [
+{
+"verseIndex": 4,
+"text": "그 안에 생명이 있었으니 이 생명은 사람들의 빛이라"
+},
+{
+"verseIndex": 5,
+"text": "빛이 어둠에 비치되 어둠이 깨닫지 못하더라"
+}
+],
+"title": "요한일서 1장 3-4절",
 "verses": [
 {
 "verseIndex": 3,
-"text": "내게 주신 은혜로 말미암아 너희 각 사람에게 말하노니 마땅히 생각할 그 이상의 생각을 품지 말고 오직 하나님께서 각 사람에게 나누어 주신 믿음의 분량대로 지혜롭게 생각하라"
+"text": "우리가 보고 들은 바를 너희에게도 전함은 너희로 우리와 사귐이 있게 하려 함이니 우리의 사귐은 아버지와 그의 아들 예수 그리스도와 더불어 누림이라"
 },
 {
 "verseIndex": 4,
-"text": "우리가 한 몸에 많은 지체를 가졌으나 모든 지체가 같은 기능을 가진 것이 아니니"
-},
-{
-"verseIndex": 5,
-"text": "이와 같이 우리 많은 사람이 그리스도 안에서 한 몸이 되어 서로 지체가 되었느니라"
+"text": "우리가 이것을 씀은 우리의 기쁨이 충만하게 하려 함이라"
 }
 ],
-"title": "시편 51편 4-6절",
-"verses": [
-{
-"verseIndex": 4,
-"text": "내가 주께만 범죄하여 주의 목전에 악을 행하였사오니 주께서 말씀하실 때에 의로우시다 하고 주께서 심판하실 때에 순전하시다 하리이다"
-},
-{
-"verseIndex": 5,
-"text": "내가 죄악 중에서 출생하였음이여 어머니가 죄 중에서 나를 잉태하였나이다"
-},
-{
-"verseIndex": 6,
-"text": "보소서 주께서는 중심이 진실함을 원하시오니 내게 지혜를 은밀히 가르치시리이다"
-}
-],
-"cardImageUrl": "https://raw.githubusercontent.com/DadHaving2Sons/shiningkids_data/refs/heads/main/cards/2026_1_term_w2.png"
+"cardImageUrl": "https://raw.githubusercontent.com/DadHaving2Sons/shiningkids_data/refs/heads/main/cards/2026_2_term_w2.png"
 },
 {
 "periodType": "term",
 "weekNumber": 3,
-"weekStartDate": "2026-03-23",
-"weekEndDate": "2026-03-27",
-"title": "로마서 12장 6-8절",
+"weekStartDate": "2026-09-21",
+"weekEndDate": "2026-10-09",
+"title": "요한복음 1장 6-8절",
 "verses": [
 {
 "verseIndex": 6,
-"text": "우리에게 주신 은혜대로 받은 은사가 각각 다르니 혹 예언이면 믿음의 분수대로,"
+"text": "하나님께로부터 보내심을 받은 사람이 있으니 그의 이름은 요한이라"
 },
 {
 "verseIndex": 7,
-"text": "혹 섬기는 일이면 섬기는 일로, 혹 가르치는 자면 가르치는 일로,"
+"text": "그가 증언하러 왔으니 곧 빛에 대하여 증언하고 모든 사람이 자기로 말미암아 믿게 하려 함이라"
 },
 {
 "verseIndex": 8,
-"text": "혹 위로하는 자면 위로하는 일로, 구제하는 자는 성실함으로, 다스리는 자는 부지런함으로, 긍휼을 베푸는 자는 즐거움으로 할 것이니라"
+"text": "그는 이 빛이 아니요 이 빛에 대하여 증언하러 온 자라"
 }
 ],
-"title": "시편 51편 7-9절",
+"title": "요한일서 1장 5-6절",
 "verses": [
 {
-"verseIndex": 7,
-"text": "우슬초로 나를 정결하게 하소서 내가 정하리이다 나의 죄를 씻어 주소서 내가 눈보다 희리이다"
+"verseIndex": 5,
+"text": "우리가 그에게서 듣고 너희에게 전하는 소식은 이것이니 곧 하나님은 빛이시라 그에게는 어둠이 조금도 없으시다는 것이니라"
 },
 {
-"verseIndex": 8,
-"text": "내게 즐겁고 기쁜 소리를 들려 주시사 주께서 꺾으신 뼈들도 즐거워하게 하소서"
-},
-{
-"verseIndex": 9,
-"text": "주의 얼굴을 내 죄에서 돌이키시고 내 모든 죄악을 지워 주소서"
+"verseIndex": 6,
+"text": "만일 우리가 하나님과 사귐이 있다 하고 어둠에 행하면 거짓말을 하고 진리를 행하지 아니함이거니와"
 }
 ],
-"cardImageUrl": "https://raw.githubusercontent.com/DadHaving2Sons/shiningkids_data/refs/heads/main/cards/2026_1_term_w3.png"
+"cardImageUrl": "https://raw.githubusercontent.com/DadHaving2Sons/shiningkids_data/refs/heads/main/cards/2026_2_term_w3.png"
 },
 {
 "periodType": "term",
 "weekNumber": 4,
-"weekStartDate": "2026-03-30",
-"weekEndDate": "2026-04-03",
-"title": "로마서 12장 9-12절",
+"weekStartDate": "2026-10-12",
+"weekEndDate": "2026-10-16",
+"title": "요한복음 1장 9-11절",
 "verses": [
 {
 "verseIndex": 9,
-"text": "사랑에는 거짓이 없나니 악을 미워하고 선에 속하라"
+"text": "참 빛 곧 세상에 와서 각 사람에게 비추는 빛이 있었나니"
 },
 {
 "verseIndex": 10,
-"text": "형제를 사랑하여 서로 우애하고 존경하기를 서로 먼저 하며"
+"text": "그가 세상에 계셨으며 세상은 그로 말미암아 지은 바 되었으되 세상이 그를 알지 못하였고"
 },
 {
 "verseIndex": 11,
-"text": "부지런하여 게으르지 말고 열심을 품고 주를 섬기라"
-},
-{
-"verseIndex": 12,
-"text": "소망 중에 즐거워하며 환난 중에 참으며 기도에 항상 힘쓰며"
+"text": "자기 땅에 오매 자기 백성이 영접하지 아니하였으나"
 }
 ],
-"title": "시편 51편 10-12절",
+"title": "요한일서 1장 7-8절",
 "verses": [
 {
-"verseIndex": 10,
-"text": "하나님이여 내 속에 정한 마음을 창조하시고 내 안에 정직한 영을 새롭게 하소서"
+"verseIndex": 7,
+"text": "그가 빛 가운데 계신 것 같이 우리도 빛 가운데 행하면 우리가 서로 사귐이 있고 그 아들 예수의 피가 우리를 모든 죄에서 깨끗하게 하실 것이요"
 },
 {
-"verseIndex": 11,
-"text": "나를 주 앞에서 쫓아내지 마시며 주의 성령을 내게서 거두지 마소서"
-},
-{
-"verseIndex": 12,
-"text": "주의 구원의 즐거움을 내게 회복시켜 주시고 자원하는 심령을 주사 나를 붙드소서"
+"verseIndex": 8,
+"text": "만일 우리가 죄가 없다고 말하면 스스로 속이고 또 진리가 우리 속에 있지 아니할 것이요"
 }
 ],
-"cardImageUrl": "https://raw.githubusercontent.com/DadHaving2Sons/shiningkids_data/refs/heads/main/cards/2026_1_term_w4.png"
+"cardImageUrl": "https://raw.githubusercontent.com/DadHaving2Sons/shiningkids_data/refs/heads/main/cards/2026_2_term_w4.png"
 },
 {
 "periodType": "term",
 "weekNumber": 5,
-"weekStartDate": "2026-04-06",
-"weekEndDate": "2026-04-10",
-"title": "로마서 12장 13-15절",
+"weekStartDate": "2026-10-19",
+"weekEndDate": "2026-10-23",
+"title": "요한복음 1장 12-14절",
 "verses": [
 {
+"verseIndex": 12,
+"text": "영접하는 자 곧 그 이름을 믿는 자들에게는 하나님의 자녀가 되는 권세를 주셨으니"
+},
+{
 "verseIndex": 13,
-"text": "성도들의 쓸 것을 공급하며 손 대접하기를 힘쓰라"
+"text": "이는 혈통으로나 육정으로나 사람의 뜻으로 나지 아니하고 오직 하나님께로부터 난 자들이니라"
 },
 {
 "verseIndex": 14,
-"text": "너희를 박해하는 자를 축복하라 축복하고 저주하지 말라"
-},
-{
-"verseIndex": 15,
-"text": "즐거워하는 자들과 함께 즐거워하고 우는 자들과 함께 울라"
+"text": "말씀이 육신이 되어 우리 가운데 거하시매 우리가 그의 영광을 보니 아버지의 독생자의 영광이요 은혜와 진리가 충만하더라"
 }
 ],
-"title": "시편 51편 13-15절",
+"title": "요한일서 1장 9-10절",
 "verses": [
 {
-"verseIndex": 13,
-"text": "그리하면 내가 범죄자에게 주의 도를 가르치리니 죄인들이 주께 돌아오리이다"
+"verseIndex": 9,
+"text": "만일 우리가 우리 죄를 자백하면 그는 미쁘시고 의로우사 우리 죄를 사하시며 우리를 모든 불의에서 깨끗하게 하실 것이요"
 },
 {
-"verseIndex": 14,
-"text": "하나님이여 나의 구원의 하나님이여 피 흘린 죄에서 나를 건지소서 내 혀가 주의 의를 높이 노래하리이다"
-},
-{
-"verseIndex": 15,
-"text": "주여 내 입술을 열어 주소서 내 입이 주를 찬송하여 전파하리이다"
+"verseIndex": 10,
+"text": "만일 우리가 범죄하지 아니하였다 하면 하나님을 거짓말하는 이로 만드는 것이니 또한 그의 말씀이 우리 속에 있지 아니하니라"
 }
 ],
-"cardImageUrl": "https://raw.githubusercontent.com/DadHaving2Sons/shiningkids_data/refs/heads/main/cards/2026_1_term_w5.png"
+"cardImageUrl": "https://raw.githubusercontent.com/DadHaving2Sons/shiningkids_data/refs/heads/main/cards/2026_2_term_w5.png"
 },
 {
 "periodType": "term",
 "weekNumber": 6,
-"weekStartDate": "2026-04-13",
-"weekEndDate": "2026-04-17",
-"title": "로마서 12장 16-18절",
+"weekStartDate": "2026-10-26",
+"weekEndDate": "2026-10-30",
+"title": "요한일서 2장 7-9절",
 "verses": [
 {
-"verseIndex": 16,
-"text": "서로 마음을 같이하며 높은 데 마음을 두지 말고 도리어 낮은 데 처하며 스스로 지혜 있는 체하지 말라"
+"verseIndex": 7,
+"text": "사랑하는 자들아 내가 새 계명을 너희에게 쓰는 것이 아니라 너희가 처음부터 가진 옛 계명이니 이 옛 계명은 너희가 들은 바 말씀이거니와"
 },
 {
-"verseIndex": 17,
-"text": "아무에게도 악을 악으로 갚지 말고 모든 사람 앞에서 선한 일을 도모하라"
+"verseIndex": 8,
+"text": "다시 내가 너희에게 새 계명을 쓰노니 그에게와 너희에게도 참된 것이라 이는 어둠이 지나가고 참빛이 벌써 비침이니라"
 },
 {
-"verseIndex": 18,
-"text": "할 수 있거든 너희로서는 모든 사람과 더불어 화목하라"
+"verseIndex": 9,
+"text": "빛 가운데 있다 하면서 그 형제를 미워하는 자는 지금까지 어둠에 있는 자요"
 }
 ],
-"title": "시편 51편 16-17절",
+"title": "말씀과 함께 자라는 자녀를 위한 기도",
 "verses": [
 {
-"verseIndex": 16,
-"text": "주께서는 제사를 기뻐하지 아니하시나니 그렇지 아니하면 내가 드렸을 것이라 주는 번제를 기뻐하지 아니하시나이다"
+"verseIndex": 1,
+"text": "옳지 않은 일을 했을 때 항상 발각되도록 기도합니다. (시19:12) (  )의 허물을 능히 깨닫게 하사 저를 숨은 허물에서 벗어나게 하소서."
 },
 {
-"verseIndex": 17,
-"text": "하나님께서 구하시는 제사는 상한 심령이라 하나님이여 상하고 통회하는 마음을 주께서 멸시하지 아니하시리이다"
+"verseIndex": 2,
+"text": "몸의 정결을 위해 기도합니다. (엡5:1,3) 음행과 온갖 더러운 것과 탐욕은 (  )가 그 이름 조차도 부르지 말게 하소서."
+},
+{
+"verseIndex": 3,
+"text": "경건한 친구들을 위해 기도합니다. (딤후2:22) (  )가 정욕을 피하고 주를 깨끗한 마음으로 부르는 친구들과 함께 의와 믿음과 사랑과 화평을 따르게 하소서."
+},
+{
+"verseIndex": 4,
+"text": "장래 배우자를 위해 기도합니다. (고후6:14) (  )가 믿지 않는 자와 멍에를 함께 메지 않도록 늘 빛 가운데 거하게 하소서."
 }
 ],
-"cardImageUrl": "https://raw.githubusercontent.com/DadHaving2Sons/shiningkids_data/refs/heads/main/cards/2026_1_term_w6.png"
+"cardImageUrl": "https://raw.githubusercontent.com/DadHaving2Sons/shiningkids_data/refs/heads/main/cards/2026_2_term_w6.png"
 },
 {
 "periodType": "term",
 "weekNumber": 7,
-"weekStartDate": "2026-04-20",
-"weekEndDate": "2026-04-24",
-"title": "로마서 12장 19-21절",
+"weekStartDate": "2026-11-02",
+"weekEndDate": "2026-11-06",
+"title": "요한일서 2장 10-12절",
 "verses": [
 {
-"verseIndex": 19,
-"text": "내 사랑하는 자들아 너희가 친히 원수를 갚지 말고 하나님의 진노하심에 맡기라 기록되었으되 원수 갚는 것이 내게 있으니 내가 갚으리라고 주께서 말씀하시니라"
+"verseIndex": 10,
+"text": "그의 형제를 사랑하는 자는 빛 가운데 거하여 자기 속에 거리낌이 없으나"
 },
 {
-"verseIndex": 20,
-"text": "네 원수가 주리거든 먹이고 목마르거든 마시게 하라 그리함으로 네가 숯불을 그 머리에 쌓아 놓으리라"
+"verseIndex": 11,
+"text": "그의 형제를 미워하는 자는 어둠에 있고 또 어둠에 행하며 갈 곳을 알지 못하나니 이는 그 어둠이 그의 눈을 멀게 하였음이라"
 },
 {
-"verseIndex": 21,
-"text": "악에게 지지 말고 선으로 악을 이기라"
+"verseIndex": 12,
+"text": "자녀들아 내가 너희에게 쓰는 것은 너희 죄가 그의 이름으로 말미암아 사함을 받았음이요"
 }
 ],
-"title": "시편 51편 18-19절",
+"title": "말씀과 함께 자라는 자녀를 위한 기도",
 "verses": [
 {
-"verseIndex": 18,
-"text": "주의 은택으로 시온에 선을 행하시고 예루살렘 성을 쌓으소서"
+"verseIndex": 5,
+"text": "분별력을 위해 기도합니다. (골2:8) (  )에게 분별력을 주사 철학과 헛된 속임수에 사로 잡히지 않게 하소서."
 },
 {
-"verseIndex": 19,
-"text": "그 때에 주께서 의로운 제사와 번제와 온전한 번제를 기뻐하시리니 그 때에 그들이 수소를 주의 제단에 드리리이다"
+"verseIndex": 6,
+"text": "하나님을 더욱 잘 알 수 있는 계시를 위해 기도합니다. (엡1:17) 우리 주 예수 그리스도의 하나님, 영광의 아버지께서 지혜와 계시의 영을 (  )에게 주사 하나님을 알게 하여 주소서."
+},
+{
+"verseIndex": 7,
+"text": "계속 회개하며 변화되기 원하는 마음을 위해 기도합니다. (겔18:30b) (  )가 항상 돌이켜 회개하고 모든 죄에서 자유케 되어 저에게 죄가 걸림돌이 되지 않게 하소서."
+},
+{
+"verseIndex": 8,
+"text": "하나님이 기도 응답하시는 것을 보도록 기도합니다. (눅18:1) (  )가 항상 기도하고 낙심하지 않게 도우사 기도의 응답을 보게하여 주소서."
 }
 ],
-"cardImageUrl": "https://raw.githubusercontent.com/DadHaving2Sons/shiningkids_data/refs/heads/main/cards/2026_1_term_w7.png"
+"cardImageUrl": "https://raw.githubusercontent.com/DadHaving2Sons/shiningkids_data/refs/heads/main/cards/2026_2_term_w7.png"
 },
 {
 "periodType": "term",
 "weekNumber": 8,
-"weekStartDate": "2026-04-27",
-"weekEndDate": "2026-05-01",
-"title": "이사야 60장 1-6절",
+"weekStartDate": "2026-11-09",
+"weekEndDate": "2026-11-13",
+"title": "요한일서 2장 13-14절",
 "verses": [
 {
-"verseIndex": 1,
-"text": "일어나라 빛을 발하라 이는 네 빛이 이르렀고 여호와의 영광이 네 위에 임하였음이니라"
+"verseIndex": 13,
+"text": "아비들아 내가 너희에게 쓰는 것은 너희가 태초부터 계신 이를 알았음이요 청년들아 내가 너희에게 쓰는 것은 너희가 악한 자를 이기었음이라"
 },
 {
-"verseIndex": 2,
-"text": "보라 어둠이 땅을 덮을 것이며 캄캄함이 만민을 가리려니와 오직 여호와께서 네 위에 임하실 것이며 그의 영광이 네 위에 나타나리니"
-},
-{
-"verseIndex": 3,
-"text": "나라들은 네 빛으로, 왕들은 비치는 네 광명으로 나아오리라"
-},
-{
-"verseIndex": 4,
-"text": "네 눈을 들어 사방을 보라 무리가 다 모여 네게로 오느니라 네 아들들은 먼 곳에서 오겠고 네 딸들은 안기어 올 것이라"
-},
-{
-"verseIndex": 5,
-"text": "그 때에 네가 보고 기쁜 빛을 내며 네 마음이 놀라고 또 화창하리니 이는 바다의 부가 네게로 돌아오며 이방 나라들의 재물이 네게로 옴이라"
-},
-{
-"verseIndex": 6,
-"text": "허다한 낙타, 미디안과 에바의 어린 낙타가 네 가운데에 가득할 것이며 스바 사람들은 다 금과 유향을 가지고 와서 여호와의 찬송을 전파할 것이며"
+"verseIndex": 14,
+"text": "아이들아 내가 너희에게 쓴 것은 너희가 아버지를 알았음이요 아비들아 내가 너희에게 쓴 것은 너희가 태초부터 계신 이를 알았음이요 청년들아 내가 너희에게 쓴 것은 너희가 강하고 하나님의 말씀이 너희 안에 거하시며 너희가 흉악한 자를 이기었음이라"
 }
 ],
-"cardImageUrl": "https://raw.githubusercontent.com/DadHaving2Sons/shiningkids_data/refs/heads/main/cards/2026_1_term_w8.png"
+"title": "말씀과 함께 자라는 자녀를 위한 기도",
+"verses": [
+{
+"verseIndex": 9,
+"text": "하나님을 경외하도록 기도합니다. (시112:1) (  )가 여호와를 경외하며 주의 계명을 크게 즐거워하게 하여 주소서."
+},
+{
+"verseIndex": 10,
+"text": "하나님께 순복하며 마귀를 대적하도록 기도합니다. (약4:7) (  )가 하나님께 복종하고 마귀를 대적하여 영적 전쟁에서 이기게 하소서."
+},
+{
+"verseIndex": 11,
+"text": "겸손한 마음을 갖도록 기도합니다. (빌2:3) (  )가 무슨 일을 하든지 다툼이나 허영으로 하지 말고 오직 겸손한 마음으로 최선을 다하게 하소서."
+},
+{
+"verseIndex": 12,
+"text": "하나님을 최우선으로 놓도록 기도합니다. (잠3:6) (  )가 모든 일에 하나님의 주권을 인정하게 하소서."
+}
+],
+"cardImageUrl": "https://raw.githubusercontent.com/DadHaving2Sons/shiningkids_data/refs/heads/main/cards/2026_2_term_w8.png"
 },
 {
 "periodType": "term",
 "weekNumber": 9,
-"weekStartDate": "2026-05-04",
-"weekEndDate": "2026-05-08",
-"title": "이사야 60장 1-6절",
+"weekStartDate": "2026-11-16",
+"weekEndDate": "2026-11-20",
+"title": "요한일서 2장 15-17절",
 "verses": [
-{
-"verseIndex": 1,
-"text": "일어나라 빛을 발하라 이는 네 빛이 이르렀고 여호와의 영광이 네 위에 임하였음이니라"
-},
-{
-"verseIndex": 2,
-"text": "보라 어둠이 땅을 덮을 것이며 캄캄함이 만민을 가리려니와 오직 여호와께서 네 위에 임하실 것이며 그의 영광이 네 위에 나타나리니"
-},
-{
-"verseIndex": 3,
-"text": "나라들은 네 빛으로, 왕들은 비치는 네 광명으로 나아오리라"
-},
-{
-"verseIndex": 4,
-"text": "네 눈을 들어 사방을 보라 무리가 다 모여 네게로 오느니라 네 아들들은 먼 곳에서 오겠고 네 딸들은 안기어 올 것이라"
-},
-{
-"verseIndex": 5,
-"text": "그 때에 네가 보고 기쁜 빛을 내며 네 마음이 놀라고 또 화창하리니 이는 바다의 부가 네게로 돌아오며 이방 나라들의 재물이 네게로 옴이라"
-},
-{
-"verseIndex": 6,
-"text": "허다한 낙타, 미디안과 에바의 어린 낙타가 네 가운데에 가득할 것이며 스바 사람들은 다 금과 유향을 가지고 와서 여호와의 찬송을 전파할 것이며"
-}
-],
-"cardImageUrl": "https://raw.githubusercontent.com/DadHaving2Sons/shiningkids_data/refs/heads/main/cards/2026_1_term_w8.png"
-},
-{
-"periodType": "term",
-"weekNumber": 10,
-"weekStartDate": "2026-05-11",
-"weekEndDate": "2026-05-15",
-"title": "로마서 12장 1-21절",
-"verses": [
-{
-"verseIndex": 1,
-"text": "그러므로 형제들아 내가 하나님의 모든 자비하심으로 너희를 권하노니 너희 몸을 하나님이 기뻐하시는 거룩한 산 제물로 드리라 이는 너희가 드릴 영적 예배니라"
-},
-{
-"verseIndex": 2,
-"text": "너희는 이 세대를 본받지 말고 오직 마음을 새롭게 함으로 변화를 받아 하나님의 선하시고 기뻐하시고 온전하신 뜻이 무엇인지 분별하도록 하라"
-},
-{
-"verseIndex": 3,
-"text": "내게 주신 은혜로 말미암아 너희 각 사람에게 말하노니 마땅히 생각할 그 이상의 생각을 품지 말고 오직 하나님께서 각 사람에게 나누어 주신 믿음의 분량대로 지혜롭게 생각하라"
-},
-{
-"verseIndex": 4,
-"text": "우리가 한 몸에 많은 지체를 가졌으나 모든 지체가 같은 기능을 가진 것이 아니니"
-},
-{
-"verseIndex": 5,
-"text": "이와 같이 우리 많은 사람이 그리스도 안에서 한 몸이 되어 서로 지체가 되었느니라"
-},
-{
-"verseIndex": 6,
-"text": "우리에게 주신 은혜대로 받은 은사가 각각 다르니 혹 예언이면 믿음의 분수대로,"
-},
-{
-"verseIndex": 7,
-"text": "혹 섬기는 일이면 섬기는 일로, 혹 가르치는 자면 가르치는 일로,"
-},
-{
-"verseIndex": 8,
-"text": "혹 위로하는 자면 위로하는 일로, 구제하는 자는 성실함으로, 다스리는 자는 부지런함으로, 긍휼을 베푸는 자는 즐거움으로 할 것이니라"
-},
-{
-"verseIndex": 9,
-"text": "사랑에는 거짓이 없나니 악을 미워하고 선에 속하라"
-},
-{
-"verseIndex": 10,
-"text": "형제를 사랑하여 서로 우애하고 존경하기를 서로 먼저 하며"
-},
-{
-"verseIndex": 11,
-"text": "부지런하여 게으르지 말고 열심을 품고 주를 섬기라"
-},
-{
-"verseIndex": 12,
-"text": "소망 중에 즐거워하며 환난 중에 참으며 기도에 항상 힘쓰며"
-},
-{
-"verseIndex": 13,
-"text": "성도들의 쓸 것을 공급하며 손 대접하기를 힘쓰라"
-},
-{
-"verseIndex": 14,
-"text": "너희를 박해하는 자를 축복하라 축복하고 저주하지 말라"
-},
 {
 "verseIndex": 15,
-"text": "즐거워하는 자들과 함께 즐거워하고 우는 자들과 함께 울라"
+"text": "이 세상이나 세상에 있는 것들을 사랑하지 말라 누구든지 세상을 사랑하면 아버지의 사랑이 그 안에 있지 아니하니"
 },
 {
 "verseIndex": 16,
-"text": "서로 마음을 같이하며 높은 데 마음을 두지 말고 도리어 낮은 데 처하며 스스로 지혜 있는 체하지 말라"
+"text": "이는 세상에 있는 모든 것이 육신의 정욕과 안목의 정욕과 이생의 자랑이니 다 아버지께로부터 온 것이 아니요 세상으로부터 온 것이라"
 },
 {
 "verseIndex": 17,
-"text": "아무에게도 악을 악으로 갚지 말고 모든 사람 앞에서 선한 일을 도모하라"
-},
-{
-"verseIndex": 18,
-"text": "할 수 있거든 너희로서는 모든 사람과 더불어 화목하라"
-},
-{
-"verseIndex": 19,
-"text": "내 사랑하는 자들아 너희가 친히 원수를 갚지 말고 하나님의 진노하심에 맡기라 기록되었으되 원수 갚는 것이 내게 있으니 내가 갚으리라고 주께서 말씀하시니라"
-},
-{
-"verseIndex": 20,
-"text": "네 원수가 주리거든 먹이고 목마르거든 마시게 하라 그리함으로 네가 숯불을 그 머리에 쌓아 놓으리라"
-},
-{
-"verseIndex": 21,
-"text": "악에게 지지 말고 선으로 악을 이기라"
+"text": "이 세상도, 그 정욕도 지나가되 오직 하나님의 뜻을 행하는 자는 영원히 거하느니라"
 }
 ],
-"cardImageUrl": ""
-},
-{
-"periodType": "vacation",
-"weekNumber": 11,
-"weekStartDate": "2026-05-17",
-"weekEndDate": "2026-05-23",
-"title": "로마서 12장 1-5절",
-"verses": [
-{
-"verseIndex": 1,
-"text": "그러므로 형제들아 내가 하나님의 모든 자비하심으로 너희를 권하노니 너희 몸을 하나님이 기뻐하시는 거룩한 산 제물로 드리라 이는 너희가 드릴 영적 예배니라"
-},
-{
-"verseIndex": 2,
-"text": "너희는 이 세대를 본받지 말고 오직 마음을 새롭게 함으로 변화를 받아 하나님의 선하시고 기뻐하시고 온전하신 뜻이 무엇인지 분별하도록 하라"
-},
-{
-"verseIndex": 3,
-"text": "내게 주신 은혜로 말미암아 너희 각 사람에게 말하노니 마땅히 생각할 그 이상의 생각을 품지 말고 오직 하나님께서 각 사람에게 나누어 주신 믿음의 분량대로 지혜롭게 생각하라"
-},
-{
-"verseIndex": 4,
-"text": "우리가 한 몸에 많은 지체를 가졌으나 모든 지체가 같은 기능을 가진 것이 아니니"
-},
-{
-"verseIndex": 5,
-"text": "이와 같이 우리 많은 사람이 그리스도 안에서 한 몸이 되어 서로 지체가 되었느니라"
-}
-],
-"cardImageUrl": ""
-},
-{
-"periodType": "vacation",
-"weekNumber": 12,
-"weekStartDate": "2026-05-24",
-"weekEndDate": "2026-05-30",
-"title": "로마서 12장 6-12절",
-"verses": [
-{
-"verseIndex": 6,
-"text": "우리에게 주신 은혜대로 받은 은사가 각각 다르니 혹 예언이면 믿음의 분수대로,"
-},
-{
-"verseIndex": 7,
-"text": "혹 섬기는 일이면 섬기는 일로, 혹 가르치는 자면 가르치는 일로,"
-},
-{
-"verseIndex": 8,
-"text": "혹 위로하는 자면 위로하는 일로, 구제하는 자는 성실함으로, 다스리는 자는 부지런함으로, 긍휼을 베푸는 자는 즐거움으로 할 것이니라"
-},
-{
-"verseIndex": 9,
-"text": "사랑에는 거짓이 없나니 악을 미워하고 선에 속하라"
-},
-{
-"verseIndex": 10,
-"text": "형제를 사랑하여 서로 우애하고 존경하기를 서로 먼저 하며"
-},
-{
-"verseIndex": 11,
-"text": "부지런하여 게으르지 말고 열심을 품고 주를 섬기라"
-},
-{
-"verseIndex": 12,
-"text": "소망 중에 즐거워하며 환난 중에 참으며 기도에 항상 힘쓰며"
-}
-],
-"cardImageUrl": ""
-},
-{
-"periodType": "vacation",
-"weekNumber": 13,
-"weekStartDate": "2026-05-31",
-"weekEndDate": "2026-06-06",
-"title": "로마서 12장 13-18절",
+"title": "말씀과 함께 자라는 자녀를 위한 기도",
 "verses": [
 {
 "verseIndex": 13,
-"text": "성도들의 쓸 것을 공급하며 손 대접하기를 힘쓰라"
+"text": "보는 것을 위해 기도합니다. (마6:22-23) (  )의 눈은 몸의 등불이오니 그 눈으로 늘 하나님의 빛을 보게 하여 주사 어둠이 들어오지 못하게 하소서."
 },
 {
 "verseIndex": 14,
-"text": "너희를 박해하는 자를 축복하라 축복하고 저주하지 말라"
+"text": "이 세대의 악한 행실을 피하도록 기도합니다. (신18:14) 이 세대의 사람들은 길흉을 말하는 자나 점쟁이의 말을 듣거니와 (  )는 이런 일을 용납하지 않게 하소서."
 },
 {
 "verseIndex": 15,
-"text": "즐거워하는 자들과 함께 즐거워하고 우는 자들과 함께 울라"
+"text": "악한 것에 대해 ‘아니오’라고 말할 수 있도록 기도합니다. (히2:18) 주님께서 시험을 받아 고난을 당하셨은즉 (  )가 악한 것을 거절함으로 시험 받을 때 저를 능히 도우실 것을 믿는 믿음과 담대함을 주소서."
 },
 {
 "verseIndex": 16,
-"text": "서로 마음을 같이하며 높은 데 마음을 두지 말고 도리어 낮은 데 처하며 스스로 지혜 있는 체하지 말라"
-},
-{
-"verseIndex": 17,
-"text": "아무에게도 악을 악으로 갚지 말고 모든 사람 앞에서 선한 일을 도모하라"
-},
-{
-"verseIndex": 18,
-"text": "할 수 있거든 너희로서는 모든 사람과 더불어 화목하라"
+"text": "예배자가 되게 하소서! (시42:1) 목마른 사슴이 물을 찾듯이 (  )가 주일을 기다리며 다른 어떤 것보다 예배를 우선순위에 놓고 신령과 진정으로 예배드리는 데 최선을 다하게 하소서."
 }
 ],
-"cardImageUrl": ""
-},
-{
-"periodType": "vacation",
-"weekNumber": 14,
-"weekStartDate": "2026-06-07",
-"weekEndDate": "2026-06-13",
-"title": "로마서 12장 19-21절",
-"verses": [
-{
-"verseIndex": 19,
-"text": "내 사랑하는 자들아 너희가 친히 원수를 갚지 말고 하나님의 진노하심에 맡기라 기록되었으되 원수 갚는 것이 내게 있으니 내가 갚으리라고 주께서 말씀하시니라"
-},
-{
-"verseIndex": 20,
-"text": "네 원수가 주리거든 먹이고 목마르거든 마시게 하라 그리함으로 네가 숯불을 그 머리에 쌓아 놓으리라"
-},
-{
-"verseIndex": 21,
-"text": "악에게 지지 말고 선으로 악을 이기라"
-}
-],
-"cardImageUrl": ""
-},
-{
-"periodType": "vacation",
-"weekNumber": 15,
-"weekStartDate": "2026-06-14",
-"weekEndDate": "2026-06-20",
-"title": "시편 51편 1-6절",
-"verses": [
-{
-"verseIndex": 1,
-"text": "하나님이여 주의 인자를 따라 내게 은혜를 베푸시며 주의 많은 긍휼을 따라 내 죄악을 지워 주소서"
-},
-{
-"verseIndex": 2,
-"text": "나의 죄악을 말갛게 씻으시며 나의 죄를 깨끗이 제하소서"
-},
-{
-"verseIndex": 3,
-"text": "무릇 나는 내 죄과를 아오니 내 죄가 항상 내 앞에 있나이다"
-},
-{
-"verseIndex": 4,
-"text": "내가 주께만 범죄하여 주의 목전에 악을 행하였사오니 주께서 말씀하실 때에 의로우시다 하고 주께서 심판하실 때에 순전하시다 하리이다"
-},
-{
-"verseIndex": 5,
-"text": "내가 죄악 중에서 출생하였음이여 어머니가 죄 중에서 나를 잉태하였나이다"
-},
-{
-"verseIndex": 6,
-"text": "보소서 주께서는 중심이 진실함을 원하시오니 내게 지혜를 은밀히 가르치시리이다"
-}
-],
-"cardImageUrl": ""
-},
-{
-"periodType": "vacation",
-"weekNumber": 16,
-"weekStartDate": "2026-06-21",
-"weekEndDate": "2026-06-27",
-"title": "시편 51편 7-12절",
-"verses": [
-{
-"verseIndex": 7,
-"text": "우슬초로 나를 정결하게 하소서 내가 정하리이다 나의 죄를 씻어 주소서 내가 눈보다 희리이다"
-},
-{
-"verseIndex": 8,
-"text": "내게 즐겁고 기쁜 소리를 들려 주시사 주께서 꺾으신 뼈들도 즐거워하게 하소서"
-},
-{
-"verseIndex": 9,
-"text": "주의 얼굴을 내 죄에서 돌이키시고 내 모든 죄악을 지워 주소서"
-},
-{
-"verseIndex": 10,
-"text": "하나님이여 내 속에 정한 마음을 창조하시고 내 안에 정직한 영을 새롭게 하소서"
-},
-{
-"verseIndex": 11,
-"text": "나를 주 앞에서 쫓아내지 마시며 주의 성령을 내게서 거두지 마소서"
-},
-{
-"verseIndex": 12,
-"text": "주의 구원의 즐거움을 내게 회복시켜 주시고 자원하는 심령을 주사 나를 붙드소서"
-}
-],
-"cardImageUrl": ""
-},
-{
-"periodType": "vacation",
-"weekNumber": 17,
-"weekStartDate": "2026-06-28",
-"weekEndDate": "2026-07-04",
-"title": "시편 51편 13-17절",
-"verses": [
-{
-"verseIndex": 13,
-"text": "그리하면 내가 범죄자에게 주의 도를 가르치리니 죄인들이 주께 돌아오리이다"
-},
-{
-"verseIndex": 14,
-"text": "하나님이여 나의 구원의 하나님이여 피 흘린 죄에서 나를 건지소서 내 혀가 주의 의를 높이 노래하리이다"
-},
-{
-"verseIndex": 15,
-"text": "주여 내 입술을 열어 주소서 내 입이 주를 찬송하여 전파하리이다"
-},
-{
-"verseIndex": 16,
-"text": "주께서는 제사를 기뻐하지 아니하시나니 그렇지 아니하면 내가 드렸을 것이라 주는 번제를 기뻐하지 아니하시나이다"
-},
-{
-"verseIndex": 17,
-"text": "하나님께서 구하시는 제사는 상한 심령이라 하나님이여 상하고 통회하는 마음을 주께서 멸시하지 아니하시리이다"
-}
-],
-"cardImageUrl": ""
-},
-{
-"periodType": "vacation",
-"weekNumber": 18,
-"weekStartDate": "2026-07-05",
-"weekEndDate": "2026-07-11",
-"title": "시편 51편 18-19절",
-"verses": [
-{
-"verseIndex": 18,
-"text": "주의 은택으로 시온에 선을 행하시고 예루살렘 성을 쌓으소서"
-},
-{
-"verseIndex": 19,
-"text": "그 때에 주께서 의로운 제사와 번제와 온전한 번제를 기뻐하시리니 그 때에 그들이 수소를 주의 제단에 드리리이다"
-}
-],
-"cardImageUrl": ""
-},
-{
-"periodType": "vacation",
-"weekNumber": 19,
-"weekStartDate": "2026-07-12",
-"weekEndDate": "2026-07-18",
-"title": "이사야 60장 1-6절",
-"verses": [
-{
-"verseIndex": 1,
-"text": "일어나라 빛을 발하라 이는 네 빛이 이르렀고 여호와의 영광이 네 위에 임하였음이니라"
-},
-{
-"verseIndex": 2,
-"text": "보라 어둠이 땅을 덮을 것이며 캄캄함이 만민을 가리려니와 오직 여호와께서 네 위에 임하실 것이며 그의 영광이 네 위에 나타나리니"
-},
-{
-"verseIndex": 3,
-"text": "나라들은 네 빛으로, 왕들은 비치는 네 광명으로 나아오리라"
-},
-{
-"verseIndex": 4,
-"text": "네 눈을 들어 사방을 보라 무리가 다 모여 네게로 오느니라 네 아들들은 먼 곳에서 오겠고 네 딸들은 안기어 올 것이라"
-},
-{
-"verseIndex": 5,
-"text": "그 때에 네가 보고 기쁜 빛을 내며 네 마음이 놀라고 또 화창하리니 이는 바다의 부가 네게로 돌아오며 이방 나라들의 재물이 네게로 옴이라"
-},
-{
-"verseIndex": 6,
-"text": "허다한 낙타, 미디안과 에바의 어린 낙타가 네 가운데에 가득할 것이며 스바 사람들은 다 금과 유향을 가지고 와서 여호와의 찬송을 전파할 것이며"
-}
-],
-"cardImageUrl": ""
-},
-{
-"periodType": "vacation",
-"weekNumber": 20,
-"weekStartDate": "2026-07-19",
-"weekEndDate": "2026-07-25",
-"title": "로마서 12장 1-12절",
-"verses": [
-{
-"verseIndex": 1,
-"text": "그러므로 형제들아 내가 하나님의 모든 자비하심으로 너희를 권하노니 너희 몸을 하나님이 기뻐하시는 거룩한 산 제물로 드리라 이는 너희가 드릴 영적 예배니라"
-},
-{
-"verseIndex": 2,
-"text": "너희는 이 세대를 본받지 말고 오직 마음을 새롭게 함으로 변화를 받아 하나님의 선하시고 기뻐하시고 온전하신 뜻이 무엇인지 분별하도록 하라"
-},
-{
-"verseIndex": 3,
-"text": "내게 주신 은혜로 말미암아 너희 각 사람에게 말하노니 마땅히 생각할 그 이상의 생각을 품지 말고 오직 하나님께서 각 사람에게 나누어 주신 믿음의 분량대로 지혜롭게 생각하라"
-},
-{
-"verseIndex": 4,
-"text": "우리가 한 몸에 많은 지체를 가졌으나 모든 지체가 같은 기능을 가진 것이 아니니"
-},
-{
-"verseIndex": 5,
-"text": "이와 같이 우리 많은 사람이 그리스도 안에서 한 몸이 되어 서로 지체가 되었느니라"
-},
-{
-"verseIndex": 6,
-"text": "우리에게 주신 은혜대로 받은 은사가 각각 다르니 혹 예언이면 믿음의 분수대로,"
-},
-{
-"verseIndex": 7,
-"text": "혹 섬기는 일이면 섬기는 일로, 혹 가르치는 자면 가르치는 일로,"
-},
-{
-"verseIndex": 8,
-"text": "혹 위로하는 자면 위로하는 일로, 구제하는 자는 성실함으로, 다스리는 자는 부지런함으로, 긍휼을 베푸는 자는 즐거움으로 할 것이니라"
-},
-{
-"verseIndex": 9,
-"text": "사랑에는 거짓이 없나니 악을 미워하고 선에 속하라"
-},
-{
-"verseIndex": 10,
-"text": "형제를 사랑하여 서로 우애하고 존경하기를 서로 먼저 하며"
-},
-{
-"verseIndex": 11,
-"text": "부지런하여 게으르지 말고 열심을 품고 주를 섬기라"
-},
-{
-"verseIndex": 12,
-"text": "소망 중에 즐거워하며 환난 중에 참으며 기도에 항상 힘쓰며"
-}
-],
-"cardImageUrl": ""
-},
-{
-"periodType": "vacation",
-"weekNumber": 21,
-"weekStartDate": "2026-07-26",
-"weekEndDate": "2026-08-01",
-"title": "로마서 12장 13-21절",
-"verses": [
-{
-"verseIndex": 13,
-"text": "성도들의 쓸 것을 공급하며 손 대접하기를 힘쓰라"
-},
-{
-"verseIndex": 14,
-"text": "너희를 박해하는 자를 축복하라 축복하고 저주하지 말라"
-},
-{
-"verseIndex": 15,
-"text": "즐거워하는 자들과 함께 즐거워하고 우는 자들과 함께 울라"
-},
-{
-"verseIndex": 16,
-"text": "서로 마음을 같이하며 높은 데 마음을 두지 말고 도리어 낮은 데 처하며 스스로 지혜 있는 체하지 말라"
-},
-{
-"verseIndex": 17,
-"text": "아무에게도 악을 악으로 갚지 말고 모든 사람 앞에서 선한 일을 도모하라"
-},
-{
-"verseIndex": 18,
-"text": "할 수 있거든 너희로서는 모든 사람과 더불어 화목하라"
-},
-{
-"verseIndex": 19,
-"text": "내 사랑하는 자들아 너희가 친히 원수를 갚지 말고 하나님의 진노하심에 맡기라 기록되었으되 원수 갚는 것이 내게 있으니 내가 갚으리라고 주께서 말씀하시니라"
-},
-{
-"verseIndex": 20,
-"text": "네 원수가 주리거든 먹이고 목마르거든 마시게 하라 그리함으로 네가 숯불을 그 머리에 쌓아 놓으리라"
-},
-{
-"verseIndex": 21,
-"text": "악에게 지지 말고 선으로 악을 이기라"
-}
-],
-"cardImageUrl": ""
-},
-{
-"periodType": "vacation",
-"weekNumber": 22,
-"weekStartDate": "2026-08-02",
-"weekEndDate": "2026-08-08",
-"title": "시편 51편 1-12절",
-"verses": [
-{
-"verseIndex": 1,
-"text": "하나님이여 주의 인자를 따라 내게 은혜를 베푸시며 주의 많은 긍휼을 따라 내 죄악을 지워 주소서"
-},
-{
-"verseIndex": 2,
-"text": "나의 죄악을 말갛게 씻으시며 나의 죄를 깨끗이 제하소서"
-},
-{
-"verseIndex": 3,
-"text": "무릇 나는 내 죄과를 아오니 내 죄가 항상 내 앞에 있나이다"
-},
-{
-"verseIndex": 4,
-"text": "내가 주께만 범죄하여 주의 목전에 악을 행하였사오니 주께서 말씀하실 때에 의로우시다 하고 주께서 심판하실 때에 순전하시다 하리이다"
-},
-{
-"verseIndex": 5,
-"text": "내가 죄악 중에서 출생하였음이여 어머니가 죄 중에서 나를 잉태하였나이다"
-},
-{
-"verseIndex": 6,
-"text": "보소서 주께서는 중심이 진실함을 원하시오니 내게 지혜를 은밀히 가르치시리이다"
-},
-{
-"verseIndex": 7,
-"text": "우슬초로 나를 정결하게 하소서 내가 정하리이다 나의 죄를 씻어 주소서 내가 눈보다 희리이다"
-},
-{
-"verseIndex": 8,
-"text": "내게 즐겁고 기쁜 소리를 들려 주시사 주께서 꺾으신 뼈들도 즐거워하게 하소서"
-},
-{
-"verseIndex": 9,
-"text": "주의 얼굴을 내 죄에서 돌이키시고 내 모든 죄악을 지워 주소서"
-},
-{
-"verseIndex": 10,
-"text": "하나님이여 내 속에 정한 마음을 창조하시고 내 안에 정직한 영을 새롭게 하소서"
-},
-{
-"verseIndex": 11,
-"text": "나를 주 앞에서 쫓아내지 마시며 주의 성령을 내게서 거두지 마소서"
-},
-{
-"verseIndex": 12,
-"text": "주의 구원의 즐거움을 내게 회복시켜 주시고 자원하는 심령을 주사 나를 붙드소서"
-}
-],
-"cardImageUrl": ""
-},
-{
-"periodType": "vacation",
-"weekNumber": 23,
-"weekStartDate": "2026-08-09",
-"weekEndDate": "2026-08-15",
-"title": "시편 51편 13-19절",
-"verses": [
-{
-"verseIndex": 13,
-"text": "그리하면 내가 범죄자에게 주의 도를 가르치리니 죄인들이 주께 돌아오리이다"
-},
-{
-"verseIndex": 14,
-"text": "하나님이여 나의 구원의 하나님이여 피 흘린 죄에서 나를 건지소서 내 혀가 주의 의를 높이 노래하리이다"
-},
-{
-"verseIndex": 15,
-"text": "주여 내 입술을 열어 주소서 내 입이 주를 찬송하여 전파하리이다"
-},
-{
-"verseIndex": 16,
-"text": "주께서는 제사를 기뻐하지 아니하시나니 그렇지 아니하면 내가 드렸을 것이라 주는 번제를 기뻐하지 아니하시나이다"
-},
-{
-"verseIndex": 17,
-"text": "하나님께서 구하시는 제사는 상한 심령이라 하나님이여 상하고 통회하는 마음을 주께서 멸시하지 아니하시리이다"
-},
-{
-"verseIndex": 18,
-"text": "주의 은택으로 시온에 선을 행하시고 예루살렘 성을 쌓으소서"
-},
-{
-"verseIndex": 19,
-"text": "그 때에 주께서 의로운 제사와 번제와 온전한 번제를 기뻐하시리니 그 때에 그들이 수소를 주의 제단에 드리리이다"
-}
-],
-"cardImageUrl": ""
-},
-{
-"periodType": "vacation",
-"weekNumber": 24,
-"weekStartDate": "2026-08-16",
-"weekEndDate": "2026-08-22",
-"title": "이사야 60장 1-6절",
-"verses": [
-{
-"verseIndex": 1,
-"text": "일어나라 빛을 발하라 이는 네 빛이 이르렀고 여호와의 영광이 네 위에 임하였음이니라"
-},
-{
-"verseIndex": 2,
-"text": "보라 어둠이 땅을 덮을 것이며 캄캄함이 만민을 가리려니와 오직 여호와께서 네 위에 임하실 것이며 그의 영광이 네 위에 나타나리니"
-},
-{
-"verseIndex": 3,
-"text": "나라들은 네 빛으로, 왕들은 비치는 네 광명으로 나아오리라"
-},
-{
-"verseIndex": 4,
-"text": "네 눈을 들어 사방을 보라 무리가 다 모여 네게로 오느니라 네 아들들은 먼 곳에서 오겠고 네 딸들은 안기어 올 것이라"
-},
-{
-"verseIndex": 5,
-"text": "그 때에 네가 보고 기쁜 빛을 내며 네 마음이 놀라고 또 화창하리니 이는 바다의 부가 네게로 돌아오며 이방 나라들의 재물이 네게로 옴이라"
-},
-{
-"verseIndex": 6,
-"text": "허다한 낙타, 미디안과 에바의 어린 낙타가 네 가운데에 가득할 것이며 스바 사람들은 다 금과 유향을 가지고 와서 여호와의 찬송을 전파할 것이며"
-}
-],
-"cardImageUrl": ""
-},
-{
-"periodType": "vacation",
-"weekNumber": 25,
-"weekStartDate": "2026-08-23",
-"weekEndDate": "2026-08-29",
-"title": "로마서 12장 1-12절",
-"verses": [
-{
-"verseIndex": 1,
-"text": "그러므로 형제들아 내가 하나님의 모든 자비하심으로 너희를 권하노니 너희 몸을 하나님이 기뻐하시는 거룩한 산 제물로 드리라 이는 너희가 드릴 영적 예배니라"
-},
-{
-"verseIndex": 2,
-"text": "너희는 이 세대를 본받지 말고 오직 마음을 새롭게 함으로 변화를 받아 하나님의 선하시고 기뻐하시고 온전하신 뜻이 무엇인지 분별하도록 하라"
-},
-{
-"verseIndex": 3,
-"text": "내게 주신 은혜로 말미암아 너희 각 사람에게 말하노니 마땅히 생각할 그 이상의 생각을 품지 말고 오직 하나님께서 각 사람에게 나누어 주신 믿음의 분량대로 지혜롭게 생각하라"
-},
-{
-"verseIndex": 4,
-"text": "우리가 한 몸에 많은 지체를 가졌으나 모든 지체가 같은 기능을 가진 것이 아니니"
-},
-{
-"verseIndex": 5,
-"text": "이와 같이 우리 많은 사람이 그리스도 안에서 한 몸이 되어 서로 지체가 되었느니라"
-},
-{
-"verseIndex": 6,
-"text": "우리에게 주신 은혜대로 받은 은사가 각각 다르니 혹 예언이면 믿음의 분수대로,"
-},
-{
-"verseIndex": 7,
-"text": "혹 섬기는 일이면 섬기는 일로, 혹 가르치는 자면 가르치는 일로,"
-},
-{
-"verseIndex": 8,
-"text": "혹 위로하는 자면 위로하는 일로, 구제하는 자는 성실함으로, 다스리는 자는 부지런함으로, 긍휼을 베푸는 자는 즐거움으로 할 것이니라"
-},
-{
-"verseIndex": 9,
-"text": "사랑에는 거짓이 없나니 악을 미워하고 선에 속하라"
-},
-{
-"verseIndex": 10,
-"text": "형제를 사랑하여 서로 우애하고 존경하기를 서로 먼저 하며"
-},
-{
-"verseIndex": 11,
-"text": "부지런하여 게으르지 말고 열심을 품고 주를 섬기라"
-},
-{
-"verseIndex": 12,
-"text": "소망 중에 즐거워하며 환난 중에 참으며 기도에 항상 힘쓰며"
-}
-],
-"cardImageUrl": ""
-},
-{
-"periodType": "vacation",
-"weekNumber": 26,
-"weekStartDate": "2026-08-30",
-"weekEndDate": "2026-09-05",
-"title": "로마서 12장 13-21절",
-"verses": [
-{
-"verseIndex": 13,
-"text": "성도들의 쓸 것을 공급하며 손 대접하기를 힘쓰라"
-},
-{
-"verseIndex": 14,
-"text": "너희를 박해하는 자를 축복하라 축복하고 저주하지 말라"
-},
-{
-"verseIndex": 15,
-"text": "즐거워하는 자들과 함께 즐거워하고 우는 자들과 함께 울라"
-},
-{
-"verseIndex": 16,
-"text": "서로 마음을 같이하며 높은 데 마음을 두지 말고 도리어 낮은 데 처하며 스스로 지혜 있는 체하지 말라"
-},
-{
-"verseIndex": 17,
-"text": "아무에게도 악을 악으로 갚지 말고 모든 사람 앞에서 선한 일을 도모하라"
-},
-{
-"verseIndex": 18,
-"text": "할 수 있거든 너희로서는 모든 사람과 더불어 화목하라"
-},
-{
-"verseIndex": 19,
-"text": "내 사랑하는 자들아 너희가 친히 원수를 갚지 말고 하나님의 진노하심에 맡기라 기록되었으되 원수 갚는 것이 내게 있으니 내가 갚으리라고 주께서 말씀하시니라"
-},
-{
-"verseIndex": 20,
-"text": "네 원수가 주리거든 먹이고 목마르거든 마시게 하라 그리함으로 네가 숯불을 그 머리에 쌓아 놓으리라"
-},
-{
-"verseIndex": 21,
-"text": "악에게 지지 말고 선으로 악을 이기라"
-}
-],
-"cardImageUrl": ""
+"cardImageUrl": "https://raw.githubusercontent.com/DadHaving2Sons/shiningkids_data/refs/heads/main/cards/2026_2_term_w9.png"
 }
 ]
 }
